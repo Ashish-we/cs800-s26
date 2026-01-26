@@ -17,6 +17,7 @@ CRN 32738
 * Week 01: Jan 26 Course Intro, What's Grad School All About?
   * Git/GitHub [1](https://guides.github.com/introduction/git-handbook/), [2](https://www.youtube.com/watch?v=0fKg7e37bQE#t=4m20s), [3](https://rogerdudler.github.io/git-guide/)
   * Markdown [1](https://guides.github.com/features/mastering-markdown/), [2](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
   * [Class slides](https://docs.google.com/presentation/d/1w_90xM9p4Kz7Q7b-kUWCr9Gcl93u1rIQdw1YQANsoF8/edit) 
 * Week 02: Feb 2 Academic Presence, Research Careers 
 * Week 03:	Feb 9	Reading Academic Papers  
